@@ -72,6 +72,8 @@ cd ../frontend
 npm install
 npm run dev
 
+---
+
 ## 📊 Key Contributions
 
 - Designed a role-based system architecture
