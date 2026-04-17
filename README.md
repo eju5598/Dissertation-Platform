@@ -21,7 +21,7 @@ The system aims to streamline the dissertation workflow by providing structured 
 ### Backend
 - Python (Django)
 - Django REST Framework
-- SQLite (development database)
+- SQLite 
 
 ### Frontend
 - React (Vite)
