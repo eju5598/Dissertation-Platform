@@ -65,7 +65,7 @@ python manage.py runserver
 
 ---
 
-### Frontend Setup
+🔹 Frontend Setup
 cd frontend
 npm install
 npm run dev
