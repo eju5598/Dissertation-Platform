@@ -72,21 +72,4 @@ cd ../frontend
 npm install
 npm run dev
 
-```bash
-
-## 📊 Key Contributions
-
-- Designed a role-based system architecture
-- Implemented CSV-based bulk data import functionality
-- Developed RESTful APIs for seamless frontend-backend communication
-- Built a responsive and user-friendly interface using React
-- Ensured modular, maintainable, and scalable system design
-
-## 🚧 Future Development
-
-- Implementation of secure authentication mechanisms (e.g., JWT-based authentication)
-- Integration of real-time notifications for updates and deadlines
-- Enhancement of user interface and user experience (UI/UX)
-- Addition of role-specific dashboards with advanced analytics
-- Integration with university systems for automated data synchronization
 
