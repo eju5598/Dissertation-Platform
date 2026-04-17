@@ -72,7 +72,7 @@ cd ../frontend
 npm install
 npm run dev
 
----
+```bash
 
 ## 📊 Key Contributions
 
