@@ -54,8 +54,9 @@ The system aims to streamline the dissertation workflow by providing structured 
 
 ## 🚀 Installation & Setup
 
-### 🔹 Backend Setup
-```bash
+# ========================
+# Backend Setup
+# ========================
 cd backend
 python -m venv venv
 venv\Scripts\activate
@@ -63,22 +64,26 @@ pip install -r requirements.txt
 python manage.py migrate
 python manage.py runserver
 
----
-
-🔹 Frontend Setup
-cd frontend
+# ========================
+# Frontend Setup
+# ========================
+cd ../frontend
 npm install
 npm run dev
 
-Key Contributions:
-Designed a role-based system architecture
-Implemented CSV-based bulk data import
-Developed RESTful APIs for frontend-backend communication
-Built responsive UI using React
-Ensured modular and scalable system design
+## 📊 Key Contributions
 
-Future Improvements:
-Enhanced authentication (JWT)
-Real-time notifications
-Improved UI/UX design
-Integration with university systems
+- Designed a role-based system architecture
+- Implemented CSV-based bulk data import functionality
+- Developed RESTful APIs for seamless frontend-backend communication
+- Built a responsive and user-friendly interface using React
+- Ensured modular, maintainable, and scalable system design
+
+## 🚧 Future Development
+
+- Implementation of secure authentication mechanisms (e.g., JWT-based authentication)
+- Integration of real-time notifications for updates and deadlines
+- Enhancement of user interface and user experience (UI/UX)
+- Addition of role-specific dashboards with advanced analytics
+- Integration with university systems for automated data synchronization
+
